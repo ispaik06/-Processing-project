@@ -1,0 +1,25 @@
+Year,Name,"Chief developer, company",Predecessor(s),Developer,Purpose,Significance
+1804,Jacquard machine,Joseph Marie Jacquard,none (unique language),Joseph Marie Jacquard,Early programmable machine for controlling looms,Introduced the concept of programmability
+1947,Assembly,Kathleen Booth,ENIAC Short Code,Kathleen Booth,Low-level programming language specific to computer architecture,Used for writing programs that directly interact with hardware
+1954,FORTRAN,Team led by John W. Backus at IBM,Speedcoding,Team led by John W. Backus at IBM,Designed for scientific and engineering calculations,One of the oldest high-level programming languages
+1964,BASIC,"John George Kemeny, Thomas Eugene Kurtz at Dartmouth College","FORTRAN II, JOSS","John George Kemeny, Thomas Eugene Kurtz at Dartmouth College",Teaching programming to beginners,"Easy-to-learn, widely used in education"
+1970,Pascal,"Niklaus Wirth, Kathleen Jensen","ALGOL 60, ALGOL W","Niklaus Wirth, Kathleen Jensen",Teaching structured programming and data structuring,Promoted good programming practices
+1972,SQL,IBM,"ALPHA, Quel (Ingres)","Donald D. Chamberlin, Raymond F. Boyce at IBM",Managing and manipulating relational databases,Standard language for database management
+1972,C,Dennis Ritchie,"B, BCPL, ALGOL 68",Dennis Ritchie at Bell Labs,General-purpose programming language,Influential in the development of many other languages
+1978,MATLAB,Cleve Moler at the University of New Mexico,Fortran,Cleve Moler,Numerical computing environment and programming language,"Widely used for matrix computations, data visualization, and algorithm development"
+1983,C++,Bjarne Stroustrup,C with Classes,Bjarne Stroustrup,Extension of C with object-oriented features,Widely used in software development
+1987,Perl,Larry Wall,"C, sed, awk, sh",Larry Wall,"General-purpose, interpreted language",Strength in text processing and system administration
+1991,Python,Guido van Rossum,"Perl, ABC, C",Guido van Rossum,"General-purpose, high-level language",Known for simplicity and readability
+1993,R,Robert Gentleman and Ross Ihaka,S,"Ross Ihaka, Robert Gentleman",Statistical computing and graphics,Widely used among statisticians and data miners
+1995,JavaScript,Brendan Eich at Netscape,LiveScript,Brendan Eich at Netscape,Making web pages interactive,Essential for web development
+1995,Ruby,Yukihiro Matsumoto,"Smalltalk, Perl",Yukihiro 'Matz' Matsumoto,"Dynamic, object-oriented programming",Known for simplicity and productivity
+1995,PHP,Rasmus Lerdorf,Perl,Rasmus Lerdorf,Server-side scripting language,Widely used for dynamic web pages
+1995,Java,James Gosling at Sun Microsystems,"C, Simula 67, C++, Smalltalk, Ada 83, Objective-C, Mesa",James Gosling and others at Sun Microsystems,"Class-based, object-oriented language",Widely used in web and mobile applications
+1996,CSS,Håkon Wium Lie and Bert Bos,SGML,"Håkon Wium Lie, Bert Bos",Style sheet language used for describing the presentation of a document written in HTML or XML,"Essential for web design, separating content from design"
+2000,C#,"Anders Hejlsberg, Microsoft (ECMA)","C, C++, Java, Delphi, Modula-2","Microsoft, led by Anders Hejlsberg",Multi-paradigm programming language developed for the Common Language Infrastructure,Widely used for developing Windows applications
+2003,Scala,Martin Odersky,"Smalltalk, Java, Haskell, Standard ML, OCaml",Martin Odersky,A versatile language supporting functional programming and strong static typing.,Designed to be concise and to address criticisms of Java
+2009,Go,Google,"C, Oberon, Limbo, Smalltalk","Google, led by Robert Griesemer, Rob Pike, Ken Thompson","Statically typed, compiled programming language designed for system programming",Known for its simplicity and efficiency
+2010,Rust,"Graydon Hoare, Mozilla","Alef, C++, Camlp4, Erlang, Hermes, Limbo, Napier, Napier88, Newsqueak, NIL, Sather, Standard ML","Mozilla Research, led by Graydon Hoare",Systems programming language focused on safety and performance,Known for its memory safety features
+2011,Kotlin,JetBrains,"Java, Scala, Groovy, C#, Gosu",JetBrains,Modern multiplatform applications,Preferred language for Android app development
+2012,TypeScript,"Anders Hejlsberg, Microsoft","JavaScript, CoffeeScript",Microsoft,Superset of JavaScript that adds static typing,Improves development experience by catching errors early
+2014,Swift,Apple Inc.,"Objective-C, Rust, Haskell, Ruby, Python, C#, CLU",Apple Inc.,"Programming for Apple's platforms (macOS, iOS, watchOS, tvOS)",Designed for ease of use and performance
